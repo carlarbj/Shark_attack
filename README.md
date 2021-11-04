@@ -31,11 +31,12 @@
  
 ## Conclusion:
 ### White Sharks
-White sharks are by far the most famous shark thanks to Hollywood. It is, indeed, the species with the greatest number of fatal occurences, with a count of 143. However, It is also the species with the second greatest number of not-fatal attacks, with a count of 477 occurrences. losing only for unknown species. Therefore, White Sharks 
-hold the position of the greatest number of occurrences, for both fatal and not fatal. 
-Most of the attacks happen in California between August and November. From November to March, according to https://www.fws.gov/uploadedfiles/whitesharkwengetal.pdf, White sharks leave California to hawaii to migrate, explaining why the numbers of occurrences drop significantlyafter November. I coudn't find any information relate to their return to California, to explain why attacks rise just in August.
-	
+
 <img align="right" src="https://pbs.twimg.com/media/E5tyqoBXwAwBzym.jpg" alt="" width="201" height="201" />
+White sharks are by far the most famous shark thanks to Hollywood. It is, indeed, the species with the greatest number of fatal occurences, with a count of 143. However, It is also the species with the second greatest number of not-fatal attacks, with a count of 477 occurrences. losing only for unknown species. Therefore, White Sharks 
+hold the position of the greatest number of occurrences, for both fatal and not fatal.
+Most of the attacks happen in California between August and November. From November to March, according to https://www.fws.gov/uploadedfiles/whitesharkwengetal.pdf, White sharks leave California to hawaii to migrate, explaining why the numbers of occurrences drop significantlyafter November. I coudn't find any information relate to their return to California, to explain why attacks rise just in August.
+
 
 ### Bull Sharks
 Bull sharks don't go too far when they migrate, according to https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/carcharhinus-leucas/, they spend most of the time in Florida, but during summer they go north looking for cooler waters and they come back when fall starts, and water has cooled again.
@@ -46,6 +47,8 @@ This probably explains the occurrences in North Carolina happening only between 
 During my research I discovered that there are plenty of Whitesharks living on the USA's East coast as well, but there aren't any significant data regarding occurrences just like it happens on the West coast.
 
 When do White sharks return from migration so that attacks increase significantly in August, which is the month with the greatest number of occurrences. 
+
+Migration patterns in South Africa and Australia, which hold a large number of occurrences as well.
 
 
 	
